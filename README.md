@@ -2,7 +2,7 @@
 
 Bienvenidos a mi Porfolio de Proyectos Personal - Welcome to my Personal Project Portfolio - Benvenuti nel mio portfolio di progetti personali - Bienvenue dans mon portefeuille de projets personnels 
 
-😄About my: 
+😄About me: 
 
 (ES)Como analista de datos junior con background en contabilidad, combino una sólida comprensión del negocio y los procesos empresariales con habilidades técnicas en SQL, Python y Power BI. Mi pasión es tomar datos complejos y transformarlos en insights claros y accionables que optimicen procesos y guíen la toma de decisiones estratégicas. A través de proyectos prácticos, he desarrollado una base firme en el análisis exploratorio, la limpieza de datos y la creación de visualizaciones. Estoy buscando mi primera oportunidad profesional para aplicar mi curiosidad, mi pensamiento crítico y mis ganas de aprender en un entorno dinámico.
 
